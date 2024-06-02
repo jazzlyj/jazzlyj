@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ...
+  - AWS Sagemaker - model building and deploying pipelines (MLOPs) 
   - AWS EKS ARGOCD 
 - 🌱 I’m currently learning ...
   - A lot! 
