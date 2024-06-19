@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ...
-  - AWS Sagemaker - model building and deploying pipelines (MLOPs) 
-  - AWS EKS ARGOCD 
+  - AWS EKS ARGOCD, but now deployed with Terragrunt into multiple environments using Github Actions CICD. And linting with tflint and SCA with Checkov 
 - 🌱 I’m currently learning ...
   - A lot! 
 - 👯 I’m looking to collaborate on ...
